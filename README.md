@@ -1,1 +1,1 @@
-# Movie_Discord_Bot
+# A discord bot that sends relevant movie data (through the imdb api) on requesting it
